@@ -1,68 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/AdvancedPeripherals-1.20.1-0.7.36r.jar"
-hash = "2e9abbbc761aae9cc477f64b09994ac492b441f3cde8e1bd71f15f3a8381feb6"
+file = "config/fml.toml"
+hash = "c8f662fe1a7ca86fa27152648c0bcd0906c1f1b1d73cadc2bd09a30a7ecf96f1"
 
 [[files]]
-file = "mods/BetterAdvancements-1.20.1-0.3.2.162.jar"
-hash = "dac0bc39d1a241f156f6d6057876a9d24581a062efe8335b7d0a3f3f7138c5a4"
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "00b37cd74fe42fe07c1030c1f797dbba4d4ce85ac66f2197f7d2feb2ef490e75"
 
 [[files]]
-file = "mods/Clumps-forge-1.20.1-12.0.0.3.jar"
-hash = "459c7f2eb6075dbb04d6f4890dc8ec256cae451fecb68dd8256c6a0389675cac"
-
-[[files]]
-file = "mods/CommonCapabilities-1.20.1-2.9.1.jar"
-hash = "5fe7cb2080e1af5db25a970d4671cfa97ffa83f63fd35b6678479cb16fd8464a"
-
-[[files]]
-file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
-hash = "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd"
-
-[[files]]
-file = "mods/CyclopsCore-1.20.1-1.19.0.jar"
-hash = "4e10da3cadf203df5bd8e46a69f1180b55a2d326ea25f73f38dbab850e4d6790"
-
-[[files]]
-file = "mods/IntegratedCrafting-1.20.1-1.1.7.jar"
-hash = "7986fad54118f07d4aad1b554bd2ce19e725d00cc7a27a7b3dced8df98155592"
-
-[[files]]
-file = "mods/IntegratedDynamics-1.20.1-1.21.1.jar"
-hash = "9293e5096d524d72d44e23dbd856b30aa8063f974021f4b24c1d4ff23ac83693"
-
-[[files]]
-file = "mods/IntegratedTerminals-1.20.1-1.4.12.jar"
-hash = "5bb07ef66aa615436c433c2ca20486b1733c382b9ab9eaf6b780b7b3b7250521"
-
-[[files]]
-file = "mods/IntegratedTunnels-1.20.1-1.8.25.jar"
-hash = "7f2445b7af7a49576b368c4215a74caec00d3add1397772c9f8f7e10404da82b"
-
-[[files]]
-file = "mods/Measurements-forge-1.20.1-2.0.0.jar"
-hash = "12715c035f2dce817dac7013c4507490204cb1140e7034725e9e42e520d9b410"
-
-[[files]]
-file = "mods/Raided-1.20.1-0.1.3.jar"
-hash = "5b00dd466864eafb447602d0bed32ae9681458d59ffb0e820d9402693f362b70"
-
-[[files]]
-file = "mods/RainShield-1.20.1-1.1.2.jar"
-hash = "94943ec31d4878152f7f955ddbe8251a7ae4e64a4d52c11affb9cc03b74223fb"
-
-[[files]]
-file = "mods/Searchables-forge-1.20.1-1.0.2.jar"
-hash = "8584134c3a443da3330349b3280b158369cdae47639477bf4b3d1ec5b36a4707"
-
-[[files]]
-file = "mods/SmartBrainLib-forge-1.20.1-1.13.jar"
-hash = "4526fe21dfe25b046e07c21cad93d252e7ca744c75a95d498c203546719ffd46"
-
-[[files]]
-file = "mods/SpitItOut-1.20.1-1.0.1.jar"
-hash = "bd3e50d75240b056f14a026d20d563b081e0cf9a8d6047ed2eff40385883076c"
+file = "config/quark-common.toml"
+hash = "6d82f268452f2f1e5c0c74fa2bd99b8603ad9c515ce621ccc0ff83b689df4a42"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -205,10 +153,6 @@ hash = "3a563cec62a27bffa896631b5560d2f546ff2623ab9e2cabfeced7904c09c5d8"
 metafile = true
 
 [[files]]
-file = "mods/balm-forge-1.20.1-7.2.1.jar"
-hash = "da250d375cdf3b9315b9bbcb5220d669cf99b5693100e14dfdf8b6643f568d84"
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
 metafile = true
@@ -257,10 +201,6 @@ metafile = true
 file = "mods/cadmus.pw.toml"
 hash = "ec21866c831a568ad2c5ef8889e55a0dcf479d40738aac75e7120ad890b6b25b"
 metafile = true
-
-[[files]]
-file = "mods/caelus-forge-3.1.0+1.20.jar"
-hash = "3410966d93cd8f31bf4b48ea838f065f25c3f17c745a06fbc2a6cd0a89d4f785"
 
 [[files]]
 file = "mods/caelus.pw.toml"
@@ -333,10 +273,6 @@ hash = "f71088a0f4930a32f27756a6fc6db26a88ead8bf5e236159c52c98868e26ed27"
 metafile = true
 
 [[files]]
-file = "mods/clienttweaks-forge-1.20-11.1.0.jar"
-hash = "c8416e0d4d634b417d58adac332e26d45b0de6b8efb02188b7f333ce51608a64"
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
@@ -397,10 +333,6 @@ hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
 metafile = true
 
 [[files]]
-file = "mods/cookingforblockheads-forge-1.20-16.0.1.jar"
-hash = "6d31a63bd4324ed3f39a007fc636299eb2678d0b4956de251c57d3a327cb0d34"
-
-[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "d82eb88a3cc12f69c07c4524f91a28473470817e14d2d4824ee4138c19fde3c7"
 metafile = true
@@ -409,10 +341,6 @@ metafile = true
 file = "mods/corn-delight.pw.toml"
 hash = "78f38ddc4c204f2a82062d532d98266546a168aeeddbd53fdaa8fb1af4ceb030"
 metafile = true
-
-[[files]]
-file = "mods/corpse-forge-1.20.1-1.0.10.jar"
-hash = "34e8da93321176bd280fd03f1be275256b3ae9d86d07fbe7015988f0764da00b"
 
 [[files]]
 file = "mods/corpse.pw.toml"
@@ -428,10 +356,6 @@ metafile = true
 file = "mods/crafting-tweaks.pw.toml"
 hash = "176907048c44287e5657e5a6e239c8df8c503836cf5ac483197d625b8f8c732b"
 metafile = true
-
-[[files]]
-file = "mods/craftingtweaks-forge-1.20-18.2.2.jar"
-hash = "9878c1b39f29eee5c52df100c36d163350c0c25b22f5cb10734e67b3f4e2f9c9"
 
 [[files]]
 file = "mods/craterlib.pw.toml"
@@ -509,17 +433,9 @@ hash = "f7c4333722dca8096290dc81394d3466844f2ec6912555b8127e454f1c0459a2"
 metafile = true
 
 [[files]]
-file = "mods/ctov-advanced-peripheral-compat-2.0.jar"
-hash = "54480f97cfbdb73b6fd89a88bd950644e8d78e58dfc1864e29eba44f5978915a"
-
-[[files]]
 file = "mods/ctov-advanced-peripheral-compat.pw.toml"
 hash = "1f40eda90c847659fe19dadadc499d45698163976fca392c4b7332b7f29f55ff"
 metafile = true
-
-[[files]]
-file = "mods/ctov-chefs-delight-compat-2.0.jar"
-hash = "ffc8300d3f06c159ce7dbaa9531b063f629792a353613601d9aae5a593e15739"
 
 [[files]]
 file = "mods/ctov-chefs-delight-compat.pw.toml"
@@ -527,17 +443,9 @@ hash = "82b3bb88bd350fe7537af8dd3900f37d41301d640dc2e6860dd6d36cf86dcd9b"
 metafile = true
 
 [[files]]
-file = "mods/ctov-farmers-delight-compat-2.1.jar"
-hash = "702ce649fb80e450ea8867359e90a044a97ec19e064c5ea39d7bcd60f2aad8d9"
-
-[[files]]
 file = "mods/ctov-farmers-delight-compat.pw.toml"
 hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
 metafile = true
-
-[[files]]
-file = "mods/ctov-friends-and-foes-compat-2.0.jar"
-hash = "eb7703b3ce7d274267e9eed9ca0686ddbf01f84eacc4081604301d9f376ea0af"
 
 [[files]]
 file = "mods/ctov-friends-and-foes-compat.pw.toml"
@@ -545,17 +453,9 @@ hash = "d32052d1510b96b5138e158f01bd5e6fcecd42ebce1af34b11aa211965800f98"
 metafile = true
 
 [[files]]
-file = "mods/ctov-immersive-engineering-compat-2.0.jar"
-hash = "4e368593674aa02dd31a716394e8344a38084e8ed22acea2ea51a95cb5b84de2"
-
-[[files]]
 file = "mods/ctov-immersive-engineering-compat.pw.toml"
 hash = "85138dbb3dfd5c0ae834310c42aa7c880d00fa1139c97f2bb3b324d7c916dbd5"
 metafile = true
-
-[[files]]
-file = "mods/ctov-irons-spells-n-spellbooks-compat-1.2.jar"
-hash = "5424ea91ec7ec8fc401fbbc3a75d8930a982731039632f7ee546fdba4d8d590e"
 
 [[files]]
 file = "mods/ctov-irons-spells-n-spellbooks-compat.pw.toml"
@@ -563,17 +463,9 @@ hash = "d87155118199bba53181b3f293aa1274e1b47212ea395125becc171113c0129a"
 metafile = true
 
 [[files]]
-file = "mods/ctov-paragliders-compat-1.0.jar"
-hash = "7b64698640d85f5588d0f93baae7a81ed9f236a1d10e1fcaef503f5755ef6bb3"
-
-[[files]]
 file = "mods/ctov-paragliders-compat.pw.toml"
 hash = "5e9c793c8037cd0d6d48c552615dfd478530dee8d0787bb20eaf48c7f907f3de"
 metafile = true
-
-[[files]]
-file = "mods/ctov-pneumaticcraft-compat-1.0.jar"
-hash = "de20783925986f540d88979b000aac5b28cfa61ea6e4d0c8c73d2b09294c9aee"
 
 [[files]]
 file = "mods/ctov-pneumaticcraft-compat.pw.toml"
@@ -609,10 +501,6 @@ metafile = true
 file = "mods/default-options.pw.toml"
 hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
 metafile = true
-
-[[files]]
-file = "mods/defaultoptions-forge-1.20-18.0.1.jar"
-hash = "788a310efd720d515622e6724b230db5250ad816cba54b6d48adf37c50aab8a1"
 
 [[files]]
 file = "mods/delightful.pw.toml"
@@ -830,10 +718,6 @@ hash = "4bf647ebfa2ed536d774b62847a6be02467733b066206d11d4972153eb6248b5"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-neoforge-1.20.1-4.4.2.jar"
-hash = "1e9fdb6613fb6b62f94c965ea6f60a125b775dc403d6fadbfa869fb9cf734fdf"
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5fbfa56a7bb591db33ffc31b2410ff5c7584fb1a21b4dd13687d51ad428643b2"
 metafile = true
@@ -927,10 +811,6 @@ metafile = true
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "21964bfd2ab6c9afcdad8b2e5d873b3eeb65691d21913d21e1d6a36f4ec925db"
 metafile = true
-
-[[files]]
-file = "mods/inventoryessentials-forge-1.20.1-8.2.1.jar"
-hash = "81c18ce2a15d68430a7f11942015d2fe9353e287cca8302c89f2d9a3a4c50d78"
 
 [[files]]
 file = "mods/ironchests.pw.toml"
@@ -1086,10 +966,6 @@ metafile = true
 file = "mods/modonomicon.pw.toml"
 hash = "0e75692e1bbc90aaef9ed110ec173c450e474db0238b8c40dc2c3af027222f0e"
 metafile = true
-
-[[files]]
-file = "mods/molten_vents_custom_blocks.json"
-hash = "1c4b2f085de10ae681570669250bfcf06a1f04c1e53ae70e3de49300ed0d8498"
 
 [[files]]
 file = "mods/more-dragon-eggs.pw.toml"
@@ -1272,10 +1148,6 @@ hash = "9d50f11fa96b4102fc62d93332e301676ccdd8daa066cc1361ec8cffe6a57a31"
 metafile = true
 
 [[files]]
-file = "mods/scorched-1.1.3c.jar"
-hash = "29b517089f57e017c8197ace21397ef4e5a525780ed4b94ca47b3fbd18c44139"
-
-[[files]]
 file = "mods/scorched.pw.toml"
 hash = "1a6cf59cdf06746770e17e0b281b05ec4576ac37bf2ce6e61b327b80d5394784"
 metafile = true
@@ -1284,10 +1156,6 @@ metafile = true
 file = "mods/searchables.pw.toml"
 hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
 metafile = true
-
-[[files]]
-file = "mods/seasonhud-forge-1.20.1-1.7.11.jar"
-hash = "25d636b173213a21cf77d60599a75659e1ae03b613fb9ed38cf8032b40a717ec"
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
@@ -1530,10 +1398,6 @@ hash = "263e784f0c3fc61b9081c8a46c06e48a07689d7a9e1e6c00820a4d60a9bacfda"
 metafile = true
 
 [[files]]
-file = "mods/voicechat-forge-1.20.1-2.5.1.jar"
-hash = "470da735fc4cdc41b423314d153f5bbdffbc72d6e9a452bfe767452ebbb25542"
-
-[[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "4b0e1b5ed69e0d92894a079ae017095388b40e32b5174cd1ace55edaa6329621"
 metafile = true
@@ -1542,10 +1406,6 @@ metafile = true
 file = "mods/wall-jump-txf.pw.toml"
 hash = "1696ab82c53c91d96745d1b0c14df2c0b5d7b9b1724703893f0e8de5010e3ad6"
 metafile = true
-
-[[files]]
-file = "mods/waystones-forge-1.20-14.1.3.jar"
-hash = "2a51710b826e04abab388b6bcb28412e1a535468ccc307dafc6fa497db6524d9"
 
 [[files]]
 file = "mods/waystones.pw.toml"
