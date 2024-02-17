@@ -1,0 +1,13 @@
+name = "Inssi Pack"
+author = "Ozoku"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6436bdf9c98a23be7d935f7ee27977d636ae7aab0bbc70637294c483f1cd8416"
+
+[versions]
+forge = "47.2.20"
+minecraft = "1.20.1"

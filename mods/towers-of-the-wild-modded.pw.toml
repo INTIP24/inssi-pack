@@ -1,0 +1,13 @@
+name = "Towers of the Wild Modded"
+filename = "totw_modded-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bd2f6ef84ed3eff93359f6d42d92870ce9a1dc9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4802113
+project-id = 859365

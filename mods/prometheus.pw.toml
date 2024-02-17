@@ -1,0 +1,13 @@
+name = "Prometheus"
+filename = "prometheus-forge-1.20.1-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6d7b5e126c75cf62dd231f396b2a04392612bba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5072558
+project-id = 845834

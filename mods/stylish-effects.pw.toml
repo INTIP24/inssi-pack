@@ -1,0 +1,13 @@
+name = "Stylish Effects"
+filename = "StylishEffects-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74637dde646208094d7c66b5a30fc6062e3961ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4613335
+project-id = 543661
