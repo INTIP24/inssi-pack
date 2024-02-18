@@ -1023,6 +1023,21 @@ hash = "228debc73b78da1bfcae7462b6fcd897ac7a0db986683bd62a43c3b409f67f52"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes-forge.pw.toml"
+hash = "30769e420573bf734328cd0d10b4039305adbc882e71efd61ad673e55e1d8b70"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "60a9be9637e3fc4ae4342a369cbeebeac4bcab3a5b0f2bef1acd5e8fbafc930f"
+metafile = true
+
+[[files]]
+file = "mods/origins-minus.pw.toml"
+hash = "768bd8a91ce0a8809059e0aa110cd0b45a8f4fafbfb0f933d14ed80c2cd703c8"
+metafile = true
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "447d3edbe6b85c54c601c64709cf7223af19142d0a47c2a2032194baf10c61f2"
 metafile = true
@@ -1035,6 +1050,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "b765e99d8f549eb37f4cf04faf44aae113156bf5f6145b4f3e1ee704ae39c4ca"
 metafile = true
 
 [[files]]
