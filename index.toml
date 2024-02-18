@@ -383,11 +383,6 @@ hash = "4e92fef237deb77688c275f3195abea0270aad198b6830d70e4c28fa448071a0"
 metafile = true
 
 [[files]]
-file = "mods/create-destroy.pw.toml"
-hash = "b6e343312c9ec7e67633f27b145c19fefcee06340bb407e59c091c0536ba34dd"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "63fe5fc1d7b29a73db90113babd4c9df92e54b79e384bfe22d3b2610e56f12b6"
 metafile = true
@@ -505,6 +500,11 @@ metafile = true
 [[files]]
 file = "mods/delightful.pw.toml"
 hash = "f79e7b3f1653a71b6f256a41bc07e43401a0fa0c2bd865676e1812ae6ecad13a"
+metafile = true
+
+[[files]]
+file = "mods/destroy.pw.toml"
+hash = "85063ba86db4880177fa26fc5f3ec80a7d7450b411f740c52637d7b36dd58231"
 metafile = true
 
 [[files]]
@@ -1389,7 +1389,7 @@ metafile = true
 
 [[files]]
 file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "42135c5e65617571cca69bd95df510355b13d62d6f6190ff71ed5d81a87c18a0"
+hash = "46f21e8975b2c7465f2575b4930ba8374b7fe064d6946a52d7e52d08d076530e"
 metafile = true
 
 [[files]]
