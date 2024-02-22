@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "7a18ca453eaa05c8f5d0b0ebefb7b5a7508f46972eabb01515f5ea4d30b6b475"
+
+[[files]]
 file = "config/fml.toml"
 hash = "c8f662fe1a7ca86fa27152648c0bcd0906c1f1b1d73cadc2bd09a30a7ecf96f1"
 
@@ -9,8 +13,32 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "00b37cd74fe42fe07c1030c1f797dbba4d4ce85ac66f2197f7d2feb2ef490e75"
 
 [[files]]
+file = "config/map_atlases-client.toml"
+hash = "c566a8a7c5fdbd89cd5f7758943c124cbd4ac31ad12d24ac8416b61a56cd65c3"
+
+[[files]]
+file = "config/pneumaticcraft-common.toml"
+hash = "265a377850fc1f587a73ec4c0c0cec0ba426e6befd7eeb02f3a7db17df7d767b"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "6d82f268452f2f1e5c0c74fa2bd99b8603ad9c515ce621ccc0ff83b689df4a42"
+
+[[files]]
+file = "defaultconfigs/immersiveengineering-server.toml"
+hash = "37e16351d1f9657028f2c2dc5a2dca6d057e99eb752d17ea312acfcd86ae5195"
+
+[[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+hash = "e6725f2162fffc7cda9140cc3923bf188241a6af81cad637e2a50e20fc78ebdf"
+
+[[files]]
+file = "kubejs/server_scripts/disable_map.js"
+hash = "0cc4a0f024dec5c9911fce6474e0edadf2c961f21a669bfff5303a7b787dc953"
+
+[[files]]
+file = "kubejs/startup_scripts/worldgen_remove.js"
+hash = "a93472249c032f293868aa73882a735fae4de9874d07244dfeaf0608b0ee1464"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -363,11 +391,6 @@ hash = "525f433cb1a7851422596126b0d4bee6af94793d001510f94bf86b315d0165d3"
 metafile = true
 
 [[files]]
-file = "mods/create-air-forge.pw.toml"
-hash = "84bc5f323d3cc4f735e75158bd810f3ea886d3f4bc4d3eb472c68368650ce1ff"
-metafile = true
-
-[[files]]
 file = "mods/create-balanced-flight.pw.toml"
 hash = "59da67ba28932cdaf191b2de978485db92ca26a2b089addc7c507dcdee11b590"
 metafile = true
@@ -518,6 +541,11 @@ hash = "ac0474dfeabf51460a83ff30f8cd085da73261350d8df19993e6985e1632143b"
 metafile = true
 
 [[files]]
+file = "mods/diet.pw.toml"
+hash = "90791d91751fc9a54e339f07f23f71ecb159383c946234a1113cbfab8a34162e"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "4a66eb10fbfd1a9cc225eb6c4eadfc03a7938e0427641d25802b7d32748f7a11"
 metafile = true
@@ -575,11 +603,6 @@ metafile = true
 [[files]]
 file = "mods/endertanks.pw.toml"
 hash = "d82cd0854518dfd6dd3a03d61633ef8f4296f99ed3d72d1394d96e4fbae58e4b"
-metafile = true
-
-[[files]]
-file = "mods/energymeter.pw.toml"
-hash = "96c83f92d038524c36df54aadad8a3d8ba4a3f3643b998a1a5a228a9f35e2abc"
 metafile = true
 
 [[files]]
@@ -998,11 +1021,6 @@ hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
 
 [[files]]
-file = "mods/new-thin-air.pw.toml"
-hash = "c9cfca434463c3b28e48630ad1b350f516a30527532977347fd4b0cfa1a8a919"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
@@ -1275,6 +1293,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-valheim-edition.pw.toml"
+hash = "3d62320f8ea7bdd9821d4de087420c40387879813c846f225574c6398e762b92"
 metafile = true
 
 [[files]]

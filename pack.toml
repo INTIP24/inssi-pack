@@ -1,12 +1,12 @@
 name = "Inssi Pack"
 author = "Ozoku"
-version = "1.0.0"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "031ce06739ecc52804f0f0c7fa61a725d79b57f885de10d7d29a5d99fd0e30bf"
+hash = "82b49365ca09f39ad3bdf108986b78f9dbd12addcec4c6318e4d84bdca9c147e"
 
 [versions]
 forge = "47.2.20"
