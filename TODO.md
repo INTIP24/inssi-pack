@@ -7,5 +7,8 @@ Set keybinds
 Set default options
 Fix inventory profiles next config
 
-UPDATE MODS!
+rebalance backpacks again?
+configure almost unified
+configure emi
+
 Install ProbeJS

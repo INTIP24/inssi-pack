@@ -1,13 +1,13 @@
 name = "Cadmus"
-filename = "cadmus-forge-1.20.1-1.0.6.jar"
+filename = "cadmus-forge-1.20.1-1.0.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "130a01b6309adda7a21f08e1948ca7e3569b65ed"
+hash = "26685e3da02ec2a5c6cdc6b9eb8412c346b372b9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5072699
+file-id = 5122200
 project-id = 845832
