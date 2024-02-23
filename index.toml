@@ -10,7 +10,7 @@ hash = "c8f662fe1a7ca86fa27152648c0bcd0906c1f1b1d73cadc2bd09a30a7ecf96f1"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "00b37cd74fe42fe07c1030c1f797dbba4d4ce85ac66f2197f7d2feb2ef490e75"
+hash = "4edb3bdb10bb7b254c597e6f052999691e5c2db8f85dcc739ddf0eea09c92014"
 
 [[files]]
 file = "config/map_atlases-client.toml"
@@ -34,7 +34,7 @@ hash = "e6725f2162fffc7cda9140cc3923bf188241a6af81cad637e2a50e20fc78ebdf"
 
 [[files]]
 file = "kubejs/server_scripts/disable_map.js"
-hash = "0cc4a0f024dec5c9911fce6474e0edadf2c961f21a669bfff5303a7b787dc953"
+hash = "2cb6c6cc07675b50c9251f69dfe80a5ab3e65e27892aa1bb7d40aea9158534d9"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen_remove.js"
@@ -902,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "7e601ceb72539f0337c85d463fbcf70defdb1efafce5b6d45fa5e622f9b788d2"
+hash = "f492234f85af916bd709afec40e70dd74a7b72fee7d0b0fb08ee297f3e7be681"
 metafile = true
 
 [[files]]
@@ -1002,7 +1002,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
+hash = "6b67eaeeb9077a252fe10072c5d39a5d942491e65bed2f82c37c17c69ceeb2fe"
 metafile = true
 
 [[files]]
@@ -1377,7 +1377,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
 
 [[files]]
@@ -1427,7 +1427,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-darkness-forge-updated-fork.pw.toml"
-hash = "4e783ca2336af03823a355e60c72f3e8d743ae9e5936d314adf43113adeb618a"
+hash = "97e78254f2db3f32811b04cafd138df7e64a0da0a9b2812f7573ace98e6f837f"
 metafile = true
 
 [[files]]
@@ -1458,11 +1458,6 @@ metafile = true
 [[files]]
 file = "mods/wither-skeleton-tweaks.pw.toml"
 hash = "b8c9c00fe71df49cfbda00dd8160e02f4a408c397ac588842eb1412b4498ae03"
-metafile = true
-
-[[files]]
-file = "mods/world-stripper.pw.toml"
-hash = "db4d7932bbf2afd7d8d74fc0c3ebdcec9fa330c02f573cf9fc7468bf09c8bf93"
 metafile = true
 
 [[files]]
@@ -1567,7 +1562,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
-hash = "5dbe5fa776d70743e6acb0c8a6f7b94ca5185db9fb6f64c504c9dfa1ee5526d1"
+hash = "9a7da5138c82f50a5740055b5c06e46b968bbd2f85dab5d3c5cb062c0f3f1aec"
 metafile = true
 
 [[files]]
