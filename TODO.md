@@ -7,6 +7,5 @@ Set default options
 
 rebalance backpacks again?
 configure almost unified
-configure emi
 
 disable sebastrn & kiwi welcome messages

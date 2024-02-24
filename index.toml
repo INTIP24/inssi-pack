@@ -5,6 +5,10 @@ file = "config/bcc-common.toml"
 hash = "7a18ca453eaa05c8f5d0b0ebefb7b5a7508f46972eabb01515f5ea4d30b6b475"
 
 [[files]]
+file = "config/emi.css"
+hash = "7766c6bb8317dab6000ca5ead09065dc2a49262c96f2f11a74921e48828b7f25"
+
+[[files]]
 file = "config/fml.toml"
 hash = "c8f662fe1a7ca86fa27152648c0bcd0906c1f1b1d73cadc2bd09a30a7ecf96f1"
 
