@@ -29,8 +29,12 @@ file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "37e16351d1f9657028f2c2dc5a2dca6d057e99eb752d17ea312acfcd86ae5195"
 
 [[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+hash = "db74ca65527ce5e57a1484f030646a1dfa1170c795c9e0284f6141c62dffdb66"
+
+[[files]]
 file = "kubejs/server_scripts/disable_map.js"
-hash = "b81bf987476b5c805710ecc860b86df546dae5ca39e2eebf1d75692369e888eb"
+hash = "af2beb77325fb24f71a58b9cd17b54acb9ad179bc8a34a2907c13c89ba23ff81"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen_remove.js"
