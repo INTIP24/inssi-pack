@@ -1,0 +1,13 @@
+name = "Uneffectual"
+filename = "uneffectual-1.20.1-1.2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7484d0636a2cd6a79cbb015a0d58361cb1702d21"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4970696
+project-id = 624200
