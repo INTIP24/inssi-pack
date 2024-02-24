@@ -1127,6 +1127,11 @@ hash = "b92705dd6c13490d14e7c96e01fd1f2fd726f7974da13311ae98c79b0a6c6137"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "7b68e55ac49b66e79da5ef7ab05cb41549d4bb17e9050aeacc465bac97c6548c"
+metafile = true
+
+[[files]]
 file = "mods/prometheus.pw.toml"
 hash = "67645a16a34564849a1859888ff874a6db948288b769407e29caf0538422b91a"
 metafile = true
