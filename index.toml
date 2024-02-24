@@ -29,6 +29,10 @@ file = "config/quark-common.toml"
 hash = "6d82f268452f2f1e5c0c74fa2bd99b8603ad9c515ce621ccc0ff83b689df4a42"
 
 [[files]]
+file = "config/sebastrnlib-client.toml"
+hash = "ad66f214f945f5d0850f22b9f5df50e698e980781bb34539b63532055e8027fd"
+
+[[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "37e16351d1f9657028f2c2dc5a2dca6d057e99eb752d17ea312acfcd86ae5195"
 

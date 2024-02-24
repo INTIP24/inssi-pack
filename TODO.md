@@ -5,7 +5,4 @@ PTFE to Plastic
 Set keybinds
 Set default options
 
-rebalance backpacks again?
 configure almost unified
-
-disable sebastrn & kiwi welcome messages
