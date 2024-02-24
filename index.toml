@@ -30,7 +30,7 @@ hash = "37e16351d1f9657028f2c2dc5a2dca6d057e99eb752d17ea312acfcd86ae5195"
 
 [[files]]
 file = "kubejs/server_scripts/disable_map.js"
-hash = "2cb6c6cc07675b50c9251f69dfe80a5ab3e65e27892aa1bb7d40aea9158534d9"
+hash = "b81bf987476b5c805710ecc860b86df546dae5ca39e2eebf1d75692369e888eb"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen_remove.js"
@@ -1319,11 +1319,6 @@ metafile = true
 [[files]]
 file = "mods/spyglass-of-curios.pw.toml"
 hash = "d63033dfc9d7f9e4ea6316b0ed5c461d325f3a712364b51e0d7233025acc0e27"
-metafile = true
-
-[[files]]
-file = "mods/stellarity.pw.toml"
-hash = "2e3f6c018b00e4308cd0a7febccbf67d70781472234501bcf8d1139d59d59e35"
 metafile = true
 
 [[files]]
