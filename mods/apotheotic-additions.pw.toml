@@ -1,13 +1,13 @@
 name = "Apotheotic Additions"
-filename = "apotheotic_additions1.4.5.jar"
+filename = "apotheotic_additions1.4.5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "268056c52fe774c53344b2889525e4ccdf9e5ace"
+hash = "74549ea6e3481fe60dc36389d624e01998bdb39a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5128697
+file-id = 5142109
 project-id = 924640

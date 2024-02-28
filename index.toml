@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "eba9357b602fe0d1a7ce5226a304d6214db022e84a7e1fbfa331893d9aa5e985"
+hash = "6c1363ea4e20aa0544bb17cbdaee7f875743821b877c7b465be89094c9fb3c03"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheotic-additions.pw.toml"
-hash = "c35adc9f0f152f8847ecbae394033ad0f4a0d4915f7538dcc75b381dffb45b6c"
+hash = "946dc40bc622dfa7f9e2a96c44e6e795bbe6179c531d12040201229b672fb212"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "960890be34fda21cd78de480ca9dc367b518500efde04fc7fc34bc94ac383d89"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
+hash = "d02b891b8549c4bacda20466c941001255efd7f184f5ff6bd662ef90c9f6de95"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
-hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
+hash = "3e11bd1f1874982a61ce097a48bffd9d28d679db0eb79344880840aa322cc69c"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "176907048c44287e5657e5a6e239c8df8c503836cf5ac483197d625b8f8c732b"
+hash = "78cacc203857570841308fa2b833f50b5bec688dd326ac2f3be50d3b4c60f3cd"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "b5c78b4966ea57750869fa03609fab9eed5b5babad95a10ed13a7114944f0378"
+hash = "988aaefddee31942d40aab88d9ddaa6565fb9e3b1b0791218fa10d8ee7f0c806"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "773e4e7825809bcbd41b5eac2406b9430623402b859f38a7fdf1b2b62535df69"
+hash = "ad39b6fb2bc55933c421297e8ecf931d82dcb056a5513ba3f3b407fdeaef7b02"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "3a6ef3205134c85a10deb5bb8e2726e40f3548c4a1d1d01bf2c7f1f5abd0663c"
+hash = "c6b7d674814f31cc4882b6882ab52a103caae5df11f2881b356c1018ca3b832f"
 metafile = true
 
 [[files]]
@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "1999f0885fc0eb55a2e01b6c71cada52c6f1173fe7eb6a9a1ae6afa0791c4f8c"
+hash = "9c1847f178efcca595f25b0ffa02b3aa4ce59f0e353a1a4b346282a9472850c1"
 metafile = true
 
 [[files]]
@@ -870,7 +870,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "edfde34e1a1764b36bf82699bfae00c009216bb15a234f9f0bb6b7048c98d7f6"
+hash = "d75d1eb92b7946b0cd4c7d95d87cf53ea0bb3ac019e904a9f68bf9ccaa6a045f"
 metafile = true
 
 [[files]]
@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "2dcdd016bb1f22b4fb1902bc4905444a0dd5db38dd3e2848ca5cf8f6cb161f90"
+hash = "a1fdf2d6bf4bde9806734be2a9dc74fcf1bdc4447947d3487c2343ba04241584"
 metafile = true
 
 [[files]]
@@ -1205,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "22a2b26a73c814edf30ef49ffa07fd163d1a498dfd55cc5654b4beedaa31177c"
+hash = "ae3a61a079e6bbb1f6432149ec6498350b3cfcc0afe71fd014fc33a44b3d4bea"
 metafile = true
 
 [[files]]
@@ -1245,7 +1245,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d1c6bbe663328c086b00a0f66d188a908832a446ef0a88ee7fc36d9e65e7255f"
+hash = "fc58598aa63fca4c8098a3f5f48487d120bb3bd140bad8acb4e4ea4f9434ef56"
 metafile = true
 
 [[files]]
@@ -1265,12 +1265,12 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "590bad572f7a77f8ecc3b6cf7a6c7288c92c0d3af49aa1f5039b3584b1e99401"
+hash = "a6fa210db6d27f784814e6f9c559a6aab70e1b5d225d45ce743d9062b50d6f19"
 metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "3b47c991ee6aa9d2535235047c92a48724596cea02d47db8c21c89e72dba5e40"
+hash = "b0bae1eaf9d9171e77ae53c289534b9b2e1d69a1cc01b514848bc298a297ebf3"
 metafile = true
 
 [[files]]
