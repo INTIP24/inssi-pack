@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/SeasonHUD-client.toml"
+hash = "2f9a6759cfd3bf3c030f91f54a74dd405fad1afd3ea1dc5880b0e71ede2dd3cc"
+
+[[files]]
 file = "config/bcc-common.toml"
 hash = "7a18ca453eaa05c8f5d0b0ebefb7b5a7508f46972eabb01515f5ea4d30b6b475"
 
@@ -931,11 +935,6 @@ metafile = true
 [[files]]
 file = "mods/leave-my-bars-alone.pw.toml"
 hash = "3572eed1340adce229ed2035005bcdd717ba2dfabbdaddda1660317d3597482d"
-metafile = true
-
-[[files]]
-file = "mods/legendary-tooltips.pw.toml"
-hash = "f492234f85af916bd709afec40e70dd74a7b72fee7d0b0fb08ee297f3e7be681"
 metafile = true
 
 [[files]]
