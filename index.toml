@@ -248,6 +248,11 @@ hash = "4fd930a8099b09b63f65e0d3e37605dfd41a12e6471e2ad74cdbda10feef0339"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "1d13a8f9f1068fafd8848c08b2b64a6d6014de3338ce2c4499e44d6346a35449"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "098dce9973ba88740458098f574f77cd8611b8aa9584916746ca135ef533309a"
 metafile = true
@@ -698,6 +703,11 @@ hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
 
 [[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "4db64b70cbc5b078b807402a1e82ad324a44495958c1236390beaaeebf4d689e"
+metafile = true
+
+[[files]]
 file = "mods/farsight.pw.toml"
 hash = "895a16cc23b52ea6f851727c04199deae43eedb5bc9d6d121d20bf7f3a97c70a"
 metafile = true
@@ -905,6 +915,16 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "33466bb8e4a189bc2fc7e456f0f06c94979b87141fb064706f96b1ff7ead74d3"
+metafile = true
+
+[[files]]
+file = "mods/jamd.pw.toml"
+hash = "334068286ec4f418b023210341b1c12fa851f2d2de3c4130383a9f96d1c5a785"
+metafile = true
+
+[[files]]
+file = "mods/javd.pw.toml"
+hash = "3452c3d4cc9cb17ae96759c799857c742c48e2e53b9b7dd38c190c8b804b95eb"
 metafile = true
 
 [[files]]
@@ -1558,6 +1578,11 @@ hash = "46f21e8975b2c7465f2575b4930ba8374b7fe064d6946a52d7e52d08d076530e"
 metafile = true
 
 [[files]]
+file = "mods/trample-no-more.pw.toml"
+hash = "0fa419f90043ccf4f2e65d69b5623e8984b1cd9e75cad074fec65478cd0e4440"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "13af80b2b1274ebea8a8afdd31340b98280ae70ae7a64061162d0b07e75e0929"
 metafile = true
@@ -1565,6 +1590,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "519418490be7578ecc9a14da9258e8fd21abcd67d59277cb2fb40ef60a2b0861"
+metafile = true
+
+[[files]]
+file = "mods/trenzalore.pw.toml"
+hash = "c66abcf408ad2d6ffe3fe7b2db9fc08ec2540896011047a58394d467669eef9c"
 metafile = true
 
 [[files]]
