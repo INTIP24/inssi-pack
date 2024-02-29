@@ -6,9 +6,3 @@ Set keybinds
 Set default options
 
 configure almost unified
-
-silent gear
-tetra
-nethers delight
-ends delight
-biomes o plenty
