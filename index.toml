@@ -818,11 +818,6 @@ hash = "f9923d413d98e0fdb3a15dccd597b389a77cab6546b94db46817d697814df00c"
 metafile = true
 
 [[files]]
-file = "mods/ftb-ultimine-forge.pw.toml"
-hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
-metafile = true
-
-[[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
 hash = "c29644a21f7936f1db9dc3c3dd54fe593a91dfeb1cc3f13ffc5fff5e02f890a6"
 metafile = true
@@ -1225,11 +1220,6 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "5762c94ad34c4a26cf6f8ff7b1ea6b298123aec4ab9fd43ead34e8ee5838e9ab"
-metafile = true
-
-[[files]]
-file = "mods/overweight-farming.pw.toml"
-hash = "1deb44f93c9d72a2fee8b3b33fb3da84e228c0d92062111a3d205ebe18225c66"
 metafile = true
 
 [[files]]
@@ -1700,11 +1690,6 @@ metafile = true
 [[files]]
 file = "mods/true-darkness-forge-updated-fork.pw.toml"
 hash = "cb2e5381ef3000d3bffb8bf6bbb5d9a7e75dca67199d987baea1dc9be23784c7"
-metafile = true
-
-[[files]]
-file = "mods/ultimine-addition.pw.toml"
-hash = "c8e0394e9f4fc98b1c2c2b275c85eac43cb9e7ec80de7ded30e756a4612aea29"
 metafile = true
 
 [[files]]
