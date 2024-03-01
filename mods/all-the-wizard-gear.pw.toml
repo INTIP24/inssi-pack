@@ -1,0 +1,13 @@
+name = "All the Wizard Gear"
+filename = "allthewizardgear-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb4083b7e0c2e34a37ae3f63832a11f68060448a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5141329
+project-id = 927064
