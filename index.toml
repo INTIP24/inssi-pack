@@ -1293,16 +1293,6 @@ hash = "f4f6d4a3ea0bb499b3f66fca415131701d6e039debca3548210f818f544358ea"
 metafile = true
 
 [[files]]
-file = "mods/quality-crops.pw.toml"
-hash = "846f19acca15fc4f578018bfd92b2f3751ef20fa7d5797f4b56892b5fb69b13b"
-metafile = true
-
-[[files]]
-file = "mods/qualitys-delight.pw.toml"
-hash = "41c267e4e0660eee20f7206b967a1a51c71a7bb03abafebf8398fb12b8cb7ce5"
-metafile = true
-
-[[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "cccf29ce906a920013a8f10ece935b3e9c970dca19943d7237557b178d01f149"
 metafile = true
@@ -1325,11 +1315,6 @@ metafile = true
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "f714a54b3cffdaf560c6a3b1f6a71881a630381ecb316d20a43a97bb3a01590b"
-metafile = true
-
-[[files]]
-file = "mods/reliquary-reincarnations.pw.toml"
-hash = "ad8b3da5238809416fb632b19c842317c0bf990f80b95e1de1b7926a3c5d90ab"
 metafile = true
 
 [[files]]
@@ -1440,11 +1425,6 @@ metafile = true
 [[files]]
 file = "mods/silent-lib.pw.toml"
 hash = "7f281333e1c573bc3673446c291d82f3137bfc7de6a5256d61417f67be7b40bc"
-metafile = true
-
-[[files]]
-file = "mods/silentgear-compat.pw.toml"
-hash = "6719b1e96d8303ddf8c9a89247b31c974d8ecdec4eae54d06dcce7d3b5fd195c"
 metafile = true
 
 [[files]]
