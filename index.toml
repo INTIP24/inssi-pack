@@ -53,6 +53,11 @@ file = "kubejs/startup_scripts/worldgen_remove.js"
 hash = "a93472249c032f293868aa73882a735fae4de9874d07244dfeaf0608b0ee1464"
 
 [[files]]
+file = "mods/additional-enchanted-miner.pw.toml"
+hash = "02b1edc9048ea5bc83a5dd83c3899492598b186f0ab0c909cf59daf9e6b0e70b"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "ebb09834d83d8e413c0da20f2fd9665ad3fec85874260f5822dff2c37898a2b4"
 metafile = true
@@ -125,6 +130,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
+file = "mods/applied-botanics-addon.pw.toml"
+hash = "276ce628e43d33191605204300202bae93973005a5ed51eb74908f12ce200253"
 metafile = true
 
 [[files]]
@@ -260,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "1d13a8f9f1068fafd8848c08b2b64a6d6014de3338ce2c4499e44d6346a35449"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "15e15983557b274c6b5064394915d1c7e963db788fbebe1b5b2a4f220bd174ad"
 metafile = true
 
 [[files]]
@@ -973,11 +988,6 @@ hash = "33466bb8e4a189bc2fc7e456f0f06c94979b87141fb064706f96b1ff7ead74d3"
 metafile = true
 
 [[files]]
-file = "mods/jamd.pw.toml"
-hash = "334068286ec4f418b023210341b1c12fa851f2d2de3c4130383a9f96d1c5a785"
-metafile = true
-
-[[files]]
 file = "mods/javd.pw.toml"
 hash = "3452c3d4cc9cb17ae96759c799857c742c48e2e53b9b7dd38c190c8b804b95eb"
 metafile = true
@@ -1288,6 +1298,11 @@ hash = "7b68e55ac49b66e79da5ef7ab05cb41549d4bb17e9050aeacc465bac97c6548c"
 metafile = true
 
 [[files]]
+file = "mods/productivebees.pw.toml"
+hash = "a3802de77cc70be2bb3aacdf0b75d88b695a01ba6df52dfd0f69db8cf6e57300"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "f4f6d4a3ea0bb499b3f66fca415131701d6e039debca3548210f818f544358ea"
 metafile = true
@@ -1363,6 +1378,11 @@ hash = "719da2343365a0bb9fb39cf05cd658c7731911e862152a1211629699e9b12c26"
 metafile = true
 
 [[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "ef695ed57ccacb432666fdfa3672131e4d48eb0d84ee88b6bffd59c5f59f46ce"
+metafile = true
+
+[[files]]
 file = "mods/scannable.pw.toml"
 hash = "6e62d24584603de6f35af3599681d71d20fa20f59dd8206042bb7026b7021a4f"
 metafile = true
@@ -1405,11 +1425,6 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "9e62033c569248a2a9b316747e7cc3e16347e93e0a6311d4b37a8d7e909b8a46"
-metafile = true
-
-[[files]]
-file = "mods/shield-expansion.pw.toml"
-hash = "170b0c1bf4715b5c3229e7b87402bd0320da4e04fd910fd8509e9124ed0040d5"
 metafile = true
 
 [[files]]
@@ -1483,13 +1498,13 @@ hash = "04dfd3580332c4d67a86009b8c1a22db329d9c38bc45f8fce9514dde92e5cd35"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+file = "mods/sophisticated-storage.pw.toml"
+hash = "29d8215e0511484e2145ec7bf902c2ecba2113a2128460331612791b58dbe04c"
 metafile = true
 
 [[files]]
-file = "mods/spelunkery.pw.toml"
-hash = "ed249a540b8e379505d5f21b9ae6b826252bfe28bcbddd4a861e5e92bb911fd0"
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
@@ -1575,6 +1590,16 @@ metafile = true
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "ae4956baa7bfc8a7d596169d256eba7ed2e2961b55e4ad331b50d3dc6c72baeb"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "124b2e8a98bf33885b2df0526c8762cd5d3fcc10232dcc8fea3708690930c7ee"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "c98ac240e9bc3eb8bcd7711c5bd65535dce3b38f539563b9b4882f93c3929831"
 metafile = true
 
 [[files]]
